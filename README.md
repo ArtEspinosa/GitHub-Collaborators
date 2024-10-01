@@ -2,7 +2,7 @@
 ---
 ## *Can My App Guess **your** Number?*
 ___
-Can you beat my Application game? If my number Guessing Application can't guess your number in 10 tries or less then you win! 
+Can you **BEAT** my Guessing game? If my number guessing game can't guess your number in 10 tries or less then you win! 
 
 + To run the program:
   + Click the URL down below to take you to the application.
@@ -12,6 +12,6 @@ Can you beat my Application game? If my number Guessing Application can't guess 
  This project focuses on my ability to manipulate the Document Object Model (DOM) and display different results
  based on "too high" or "too Low" guesses. Using `document.querySelector()`
 
-[link to App!](https://artespinosa.github.io/GitHub-Collaborators/?)
+[link to game!](https://artespinosa.github.io/GitHub-Collaborators/?)
 
-![inspectoCAT](https://octodex.github.com/inspectocat/)
+![inspectoCAT](https://octodex.github.com/images/inspectocat.jpg)
