@@ -12,4 +12,6 @@ Can you beat my Application game? If my number Guessing Application can't guess 
  This project focuses on my ability to manipulate the Document Object Model (DOM) and display different results
  based on "too high" or "too Low" guesses. Using `document.querySelector()`
 
-![GuessGameApp](D:\Isaias Stuff\SDEV 1090 Version Control\Assignments\S7\GuessGame.png)
+[link to App!](https://artespinosa.github.io/GitHub-Collaborators/?)
+
+![inspectoCAT](https://octodex.github.com/inspectocat/)
