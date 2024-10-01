@@ -6,6 +6,7 @@ Can you **BEAT** my Guessing game? If my number guessing game can't guess your n
 
 + To run the program:
   + Click the URL down below to take you to the application.
++ Option 2:
   + Copy and paste the HTML, JavaScript and CSS to you code editing software of choice and run the HTML
   file on your broswer of choice. 
 
